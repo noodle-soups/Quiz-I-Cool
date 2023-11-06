@@ -16,7 +16,7 @@
 * Limited time to answer each question
 * UI focused gameplay
 
-### Game mechanics
+### Mechanics
 
  * Mechanism to store and retrieve questions
  * Buttons tyo select answers
@@ -27,7 +27,7 @@
 
  <br>
 
- ### Game design
+ ### Design
 
 * Player Experience: Testing knowledge / intelligence
 * Core Mechanic: Test your knowledge
