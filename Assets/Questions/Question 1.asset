@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40f570d397a554e418558cc4999848e7, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: How many stripes are there on the US flag? (13)
+  question: How many stripes are there on the US flag?
   answers:
-  - 11
+  - 0
+  - 1
   - 13
-  - 15
-  - 17
-  correctAnswerIndex: 1
+  - 131
+  correctAnswerIndex: 2
